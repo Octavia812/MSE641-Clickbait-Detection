@@ -15,7 +15,7 @@ This repository hosts all code and documentation for the **MSE 641 course projec
 /MSE641-Clickbait-Detection
 ├── README.md
 ├── requirements.txt
-├── input/               # Place downloaded datasets here
+├── input/              
 │   ├── task-1-data/
 │   └── task-2-data/
 ├── Task_1/
